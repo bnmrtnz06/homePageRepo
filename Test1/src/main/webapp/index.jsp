@@ -24,8 +24,8 @@
                 animation: banner-move 3s ease-in;
                 font-size: 65px;
                 letter-spacing: .5em;
-                text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 15px #0073e6, 0 0 20px #0073e6, 0 0 25px #0073e6, 0 0 30px #0073e6, 0 0 35px #0073e6;;
-                color: #02feff;
+                text-shadow: 0 0 5px #a8dae1, 0 0 10px #a8dae1, 0 0 15px #0073e6, 0 0 20px #a8dae1, 0 0 25px #a8dae1, 0 0 30px #a8dae1, 0 0 35px #a8dae1;;
+                color: #a8dae1;
 
             }
             a:link
@@ -53,7 +53,7 @@
             .footer
             {
                 animation: banner-move 3s ease-in;
-                text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 15px #0073e6, 0 0 20px #0073e6, 0 0 25px #0073e6, 0 0 30px #0073e6, 0 0 35px #0073e6;;
+                text-shadow: 0 0 5px #a8dae1, 0 0 10px #a8dae1, 0 0 15px #0073e6, 0 0 20px #a8dae1, 0 0 25px #a8dae1, 0 0 30px #a8dae1, 0 0 35px #a8dae1;;
                 letter-spacing: .5em;
                 color: #02feff;
             }
