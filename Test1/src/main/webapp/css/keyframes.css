@@ -1,0 +1,26 @@
+/*text entry*/
+@keyframes banner-move
+{
+    0% {
+      opacity: 0;
+    }	
+    
+    80% {
+      opacity: 0; 
+    }
+    100% {
+      opacity: 1;
+    }
+  }
+  /*form entry*/
+  @keyframes form-entry
+  {
+    0% {top: 0px;}
+    100% {top: 433px;}
+  }
+  /*modal entry*/
+  @keyframes modal-entry
+  {
+    0% {top: 0px;}
+    100% {top: 200px;}
+  }
